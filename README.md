@@ -1,0 +1,1 @@
+El CRUD fue construido a través de una base de datos alojada de manera local en phpmyadmin utilizando xampp, por lo que para replicar el funcionamiento del sistema, se deberá crear una base de datos local en phpmyadmin y modificar los parámetros de conexión en "database.py"
